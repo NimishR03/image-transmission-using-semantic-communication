@@ -4,7 +4,6 @@ import csv
 
 from config import BATCH_SIZE
 from models.model import E2EImageCommunicator, E2E_Channel, E2E_Decoder, E2E_Encoder, E2E_AutoEncoder
-from models.jscc_model import JSCC_Communicator
 from models.qam_model import QAMModem
 from utils.datasets import dataset_generator
 
