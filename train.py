@@ -5,7 +5,6 @@ import time
 
 from config import EPOCHS, BATCH_SIZE
 from models.model import E2EImageCommunicator
-from models.jscc_model import JSCC_Communicator
 from utils.datasets import dataset_generator
 # Reference: https://www.tensorflow.org/tutorials/quickstart/advanced?hl=ko
 
