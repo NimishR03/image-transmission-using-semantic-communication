@@ -21,17 +21,3 @@ There is currently no command line arguments; please edit the codes before you r
 
 ## Results
 ![results-summary](https://user-images.githubusercontent.com/23615360/155274345-82ef6780-9e48-4a9f-9cff-923d68556dca.png)
-
-## Reference
-
-```
-@INPROCEEDINGS{yoo2022real,
-  author={Yoo, Hanju and Jung, Taehun and Dai, Linglong and Kim, Songkuk and Chae, Chan-Byoung},
-  booktitle={2022 IEEE International Conference on Communications Workshops (ICC Workshops)}, 
-  title={Demo: Real-Time Semantic Communications with a Vision Transformer}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-2},
-  doi={10.1109/ICCWorkshops53468.2022.9914635}}
-```
